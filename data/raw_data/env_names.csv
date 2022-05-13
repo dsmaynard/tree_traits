@@ -1,0 +1,51 @@
+var,var2,var_short,show_units,ord,var3
+CGIAR_Aridity_Index,Aridity Index,Aridity Index,(MAP  PET^{ –1}),12.9,Env_CGIAR_Aridity_Index
+CGIAR_PET,Potential Evapotranspiration,Potential Evapotranspiration,(mm yr^{ –1}),12.95,Env_CGIAR_PET
+CHELSA_BIO_Annual_Mean_Temperature,Annual Temperature,Annual Temp.,(°C),1,Env_CHELSA_BIO_Annual_Mean_Temperature
+CHELSA_BIO_Annual_Precipitation,Annual Precipitation,Annual Precip.,(mm),13,Env_CHELSA_BIO_Annual_Precipitation
+CHELSA_BIO_Isothermality,Temperature Isothermality,Temp. Isothermality,(°C),10,Env_CHELSA_BIO_Isothermality
+CHELSA_BIO_Mean_Diurnal_Range,Temperature Diurnal Range,Temp. Diurnal Range,(°C),11,Env_CHELSA_BIO_Mean_Diurnal_Range
+CHELSA_BIO_Mean_Temperature_of_Coldest_Quarter,Temperature of the Coldest Quarter,Temp. of the Coldest Quarter,(°C),4,Env_CHELSA_BIO_Mean_Temperature_of_Coldest_Quarter
+CHELSA_BIO_Mean_Temperature_of_Driest_Quarter,Temperature of the Driest Quarter,Temp. of the Driest Quarter,(°C),5,Env_CHELSA_BIO_Mean_Temperature_of_Driest_Quarter
+CHELSA_BIO_Mean_Temperature_of_Warmest_Quarter,Temperature of the Warmest Quarter,Temp. of the Warmest Quarter,(°C),6,Env_CHELSA_BIO_Mean_Temperature_of_Warmest_Quarter
+CHELSA_BIO_Mean_Temperature_of_Wettest_Quarter,Temperature of the Wettest Quarter,Temp. of the Wettest Quarter,(°C),7,Env_CHELSA_BIO_Mean_Temperature_of_Wettest_Quarter
+CHELSA_BIO_Precipitation_of_Coldest_Quarter,Precipitation of the Coldest Quarter,Precip. of the Coldest Quarter,(mm),14,Env_CHELSA_BIO_Precipitation_of_Coldest_Quarter
+CHELSA_BIO_Precipitation_of_Driest_Quarter,Precipitation of the Driest Quarter,Precip. of the Driest Quarter,(mm),15,Env_CHELSA_BIO_Precipitation_of_Driest_Quarter
+CHELSA_BIO_Precipitation_of_Warmest_Quarter,Precipitation of the Warmest Quarter,Precip. of the Warmest Quarter,(mm),16,Env_CHELSA_BIO_Precipitation_of_Warmest_Quarter
+CHELSA_BIO_Precipitation_of_Wettest_Quarter,Precipitation of the Wettest Quarter,Precip. of the Wettest Quarter,(mm),17,Env_CHELSA_BIO_Precipitation_of_Wettest_Quarter
+CHELSA_BIO_Precipitation_Seasonality,Precipitation Seasonality,Precip. Seasonality,(mm),18,Env_CHELSA_BIO_Precipitation_Seasonality
+CHELSA_BIO_Temperature_Annual_Range,Temperature Annual Range,Temp. Annual Range,(°C),8,Env_CHELSA_BIO_Temperature_Annual_Range
+CHELSA_BIO_Temperature_Seasonality,Temperature Seasonality,Temp. Seasonality,(°C),9,Env_CHELSA_BIO_Temperature_Seasonality
+CHELSA_exBIO_FrostDays,Number of Frost Days,Number of Frost Days,,21.5,Env_CHELSA_exBIO_FrostDays
+CHELSA_exBIO_GrowingSeasonLength_Mean,Growing Season Length,Growing Season Length,,20,Env_CHELSA_exBIO_GrowingSeasonLength_Mean
+CHELSA_exBIO_GrowingSeasonLength_SD,Growing Season Length (std. dev.),Growing Season Length (std. dev.),,20.5,Env_CHELSA_exBIO_GrowingSeasonLength_SD
+CHELSA_exBIO_GrowingSeasonTemperature_Mean,Growing Season Temperature,Growing Season Temp.,,21,Env_CHELSA_exBIO_GrowingSeasonTemperature_Mean
+CHELSA_exBIO_GrowingSeasonTemperature_SD,Growing Season Temperature (std. dev.),Growing Season Temp. (std. dev.),,21.25,Env_CHELSA_exBIO_GrowingSeasonTemperature_SD
+CHELSA_exBIO_PotentialEvapotranspiration_AnnualSD,Potential Evapotranspiration (std. dev.),Potential Evapotranspiration (std. dev.),,18.15,Env_CHELSA_exBIO_PotentialEvapotranspiration_AnnualSD
+CHELSA_exBIO_RelativeHumidity_AnnualMean,Relative Humidity,Relative Humidity,,18.35,Env_CHELSA_exBIO_RelativeHumidity_AnnualMean
+CHELSA_exBIO_RelativeHumidity_AnnualSD,Relative Humidity (std. Dev.),Relative Humidity (std. Dev.),,18.45,Env_CHELSA_exBIO_RelativeHumidity_AnnualSD
+CHELSA_exBIO_SnowDays,Number Snow Days,Number Snow Days,,22,Env_CHELSA_exBIO_SnowDays
+CHELSA_exBIO_SolarRadiation_AnnualMean,Solar Radiation,Solar Radiation,,23,Env_CHELSA_exBIO_SolarRadiation_AnnualMean
+CHELSA_exBIO_SolarRadiation_AnnualSD,Solar Radiation (std. dev.),Solar Radiation (std. dev.),,24,Env_CHELSA_exBIO_SolarRadiation_AnnualSD
+EarthEnvCloudCover_Mean,Cloud Cover,Cloud Cover,,25,Env_EarthEnvCloudCover_Mean
+EarthEnvCloudCover_SD,Cloud Cover (std. dev.),Cloud Cover (std. dev.),,25.1,Env_EarthEnvCloudCover_SD
+EarthEnvTopoMed_Eastness,Eastness,Eastness,,28,Env_EarthEnvTopoMed_Eastness
+EarthEnvTopoMed_Elevation,Elevation,Elevation,(log m),29,Env_EarthEnvTopoMed_Elevation
+EarthEnvTopoMed_Northness,Northness,Northness,,30,Env_EarthEnvTopoMed_Northness
+EarthEnvTopoMed_Roughness,Roughness,Roughness,,31,Env_EarthEnvTopoMed_Roughness
+EarthEnvTopoMed_Slope,Slope,Slope,,32,Env_EarthEnvTopoMed_Slope
+EsaCci_BurntAreasProbability,Burnt Areas (probability),Burnt Areas (probability),,26,Env_EsaCci_BurntAreasProbability
+EsaCci_SnowProbability,Snow (probability),Snow (probability),,27,Env_EsaCci_SnowProbability
+FanEtAl_Depth_to_Water_Table_AnnualMean,Depth to Water Table,Depth to Water Table,(m),33,Env_FanEtAl_Depth_to_Water_Table_AnnualMean
+GlobPermafrost_PermafrostExtent,Permafrost Extent,Permafrost Extent,,27.5,Env_GlobPermafrost_PermafrostExtent
+SG_Bulk_density_015cm,Soil Bulk Density (0-15cm),Soil Bulk Density ,,36,Env_SG_Bulk_density_015cm
+SG_CEC_015cm,Soil Cation Exchange Capacity (0-15cm),Soil Cation Exchange Capacity ,,37,Env_SG_CEC_015cm
+SG_Clay_Content_015cm,Soil Clay Content (0-15cm),Soil Clay Content ,%,38,Env_SG_Clay_Content_015cm
+SG_Coarse_fragments_015cm,Soil Coarse Fragments (0-15cm),Soil Coarse Fragments ,,39,Env_SG_Coarse_fragments_015cm
+SG_Depth_to_bedrock,Depth to Bedrock,Depth to Bedrock,,35,Env_SG_Depth_to_bedrock
+SG_H2O_Capacity_015cm,Soil Water Capacity (0-15cm),Soil Water Capacity ,,40,Env_SG_H2O_Capacity_015cm
+SG_Sand_Content_015cm,Soil Sand Content (0-15cm),Soil Sand Content ,%,42,Env_SG_Sand_Content_015cm
+SG_Saturated_H2O_Content_015cm,Soil Saturated Water Content (0-15cm),Soil Saturated Water Content ,,43,Env_SG_Saturated_H2O_Content_015cm
+SG_Silt_Content_015cm,Soil Silt Content (0-15cm),Soil Silt Content ,%,44,Env_SG_Silt_Content_015cm
+SG_SOC_Content_015cm,Soil Organic Carbon (0-15cm),Soil Organic Carbon ,,41,Env_SG_SOC_Content_015cm
+SG_Soil_pH_H2O_015cm,Soil pH (0-15cm),Soil pH ,,46,Env_SG_Soil_pH_H2O_015cm

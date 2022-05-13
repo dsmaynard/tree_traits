@@ -1,0 +1,31 @@
+TraitID,trait,use_max,focal_trait,trait_label,trait_short,low,high
+4,Wood density,0,1,trait4,Wood density,0,Inf
+6,Root depth,1,1,trait6,Root depth,0.25,60
+9,Root/shoot ratio,0,0,trait9,Root/shoot ratio,0,Inf
+14,Leaf N per mass,0,1,trait14,Leaf N,2.718,52
+15,Leaf P per mass,0,1,trait15,Leaf P,0,10
+21,Stem diameter,1,1,trait21,Stem diameter,0.1,8
+24,Bark thickness,0,1,trait24,Bark thickness,0,Inf
+26,Seed dry mass,0,1,trait26,Seed dry mass,0.04978707,Inf
+41,"Leaf resp. rate, per mass",0,0,trait41,NA,0,Inf
+44,Leaf K per mass,0,1,trait44,Leaf K,0,60
+45,Stomatal conductance,0,1,trait45,Stomatal conduct.,0,1500
+46,Leaf thickness,0,1,trait46,Leaf thickness,0,5
+48,Leaf density,0,1,trait48,Leaf density,0,Inf
+56,Leaf N:P,0,0,trait56,Leaf N:P,0,Inf
+80,Root N per mass,0,0,trait80,Root N per mass,0,Inf
+144,Leaf length,0,0,trait144,Leaf length,0,Inf
+145,Leaf width,0,0,trait145,Leaf width,0,Inf
+146,Leaf C/N,0,0,trait146,Leaf C:N,0,Inf
+185,Leaf Vcmax per dry mass,0,1,trait185,Leaf Vcmax,0.03019738,Inf
+270,Leaf Jmax per dry mass,0,0,trait270,Leaf Jmax,0,Inf
+281,Stem conduit diameter,0,1,trait281,Conduit diam.,0,Inf
+324,Crown diameter,1,1,trait324,Crown diameter,1,Inf
+413,Leaf chlorophyll,0,0,trait413,Leaf chlorophyll,0,Inf
+773,Crown height,1,1,trait773,Crown height,1,Inf
+1055,Root C/N,0,0,trait1055,Root C:N,0,Inf
+1229,Wood N per mass,0,0,trait1229,Wood N per mass,0,Inf
+3106,Tree height,1,1,trait3106,Tree height,5,Inf
+3110,Leaf area,0,1,trait3110,Leaf area,0,Inf
+3117,Specific leaf area,0,1,trait3117,Specific leaf area,0,100
+3120,Leaf water per mass,0,0,trait3120,Leaf moisture,0,Inf

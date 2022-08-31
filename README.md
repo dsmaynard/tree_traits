@@ -1,6 +1,6 @@
 ## Global relationships in tree functional traits
 
-**_Nature Communications_ (2021), 13(3185)**
+**_Nature Communications_ (2022), 13(3185):1-12**
 
 **Daniel S. Maynard, et al.**
 
